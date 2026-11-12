@@ -6,13 +6,22 @@ export const DesktopHeader: React.FC = () => {
     <header className="w-full bg-white border-b border-slate-200 px-6 py-3.5 flex items-center justify-between shrink-0 shadow-2xs">
       
       {/* Left: Brand & Tagline */}
-      <div>
-        <h1 className="text-xl font-extrabold tracking-tight text-slate-900 leading-tight">
-          SI GRADUASI JABAR
-        </h1>
-        <p className="text-xs text-slate-500 font-medium mt-0.5">
-          Sistem Informasi Integrasi Intervensi Sosial & Graduasi Keluarga Jawa Barat
-        </p>
+      <div className="flex items-center gap-3.5">
+        <div className="w-10 h-10 flex items-center justify-center shrink-0">
+          <img 
+            src="/assets/logos/si-graduasi-logo.png" 
+            alt="Logo Resmi Si-Graduasi Jawa Barat" 
+            className="w-full h-full object-contain [image-rendering:-webkit-optimize-contrast]"
+          />
+        </div>
+        <div>
+          <h1 className="text-xl font-extrabold tracking-tight text-slate-900 leading-tight">
+            SI GRADUASI JABAR
+          </h1>
+          <p className="text-xs text-slate-500 font-medium mt-0.5">
+            Sistem Informasi Integrasi Intervensi Sosial & Graduasi Keluarga Jawa Barat
+          </p>
+        </div>
       </div>
 
       {/* Right: SADAJABAR Badge, User Profile, Notification */}

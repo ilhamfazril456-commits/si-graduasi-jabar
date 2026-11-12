@@ -88,12 +88,16 @@ export const ProgramsList: React.FC<ProgramsListProps> = ({
             <div className="flex items-center gap-3.5 min-w-0">
               
               {/* Official Program Logo Thumbnail (Rectangular, Ultra-Sharp & Clear) */}
-              <div className="w-16 h-13 sm:w-20 sm:h-14 rounded-xl bg-white border border-slate-200/90 p-1 flex items-center justify-center shrink-0 shadow-2xs group-hover:border-[#008444] transition-all overflow-hidden">
+              <div className={`w-16 h-13 sm:w-20 sm:h-14 rounded-xl bg-white border border-slate-200/90 flex items-center justify-center shrink-0 shadow-2xs group-hover:border-[#008444] transition-all overflow-hidden ${
+                program.id === 'kawal-bansos' ? 'p-1.5' : 'p-1'
+              }`}>
                 {program.logoUrl ? (
                   <img
                     src={program.logoUrl}
                     alt={program.name}
-                    className="max-h-full max-w-full object-contain [image-rendering:-webkit-optimize-contrast]"
+                    className={`max-h-full max-w-full object-contain [image-rendering:-webkit-optimize-contrast] ${
+                      program.id === 'kawal-bansos' ? 'scale-90' : ''
+                    }`}
                     loading="lazy"
                   />
                 ) : (

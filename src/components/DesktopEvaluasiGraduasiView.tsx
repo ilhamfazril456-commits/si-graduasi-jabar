@@ -66,37 +66,41 @@ export const DesktopEvaluasiGraduasiView: React.FC<DesktopEvaluasiGraduasiViewPr
   return (
     <div className="w-full p-4 sm:p-6 pb-28 sm:pb-12 space-y-5">
       
-      {/* Breadcrumb & Title */}
-      <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-3">
-        <div>
-          <div className="flex items-center gap-1.5 text-xs text-slate-500 font-medium">
-            {onBack ? (
-              <button 
-                onClick={onBack} 
-                className="hover:text-[#008444] transition-colors cursor-pointer"
-              >
-                Kembali
-              </button>
-            ) : (
-              <span>Beranda</span>
-            )}
-            <span aria-hidden="true">/</span>
-            <span className="text-slate-800 font-semibold">Evaluasi & Graduasi</span>
+      {/* 1. Header with Single '<-' Button in Top-Left Corner */}
+      <div className="flex items-center justify-between pb-3 border-b border-slate-200/80">
+        <div className="flex items-center gap-3">
+          {onBack && (
+            <button
+              onClick={onBack}
+              className="w-9 h-9 rounded-xl bg-slate-100 hover:bg-slate-200 active:bg-slate-300 text-slate-800 flex items-center justify-center transition-colors cursor-pointer shrink-0 shadow-2xs"
+              aria-label="Kembali ke Beranda"
+              title="Kembali ke Beranda"
+            >
+              <ArrowLeft className="w-5 h-5 text-slate-800" />
+            </button>
+          )}
+          <div>
+            <div className="flex items-center gap-2">
+              <h1 className="text-base sm:text-2xl font-extrabold text-slate-900 tracking-tight leading-tight">
+                Evaluasi & Graduasi Keluarga
+              </h1>
+              <span className="text-[10px] font-semibold text-[#008444] bg-emerald-50 px-2 py-0.5 rounded border border-emerald-100">
+                Modul 09
+              </span>
+            </div>
+            <p className="text-[11px] sm:text-xs text-slate-500 mt-0.5">
+              Dinas Sosial Provinsi Jawa Barat · Instrumen Verifikasi Mandiri
+            </p>
           </div>
-          <h1 className="text-xl sm:text-2xl font-extrabold text-slate-900 tracking-tight mt-1">
-            Evaluasi & Graduasi Keluarga
-          </h1>
         </div>
 
-        {onBack && (
-          <button
-            onClick={onBack}
-            className="self-start sm:self-auto inline-flex items-center gap-1.5 px-3 py-1.5 rounded-xl bg-slate-100 hover:bg-slate-200 text-slate-700 text-xs font-semibold transition-colors cursor-pointer"
-          >
-            <ArrowLeft className="w-3.5 h-3.5" />
-            <span>Kembali ke Beranda</span>
-          </button>
-        )}
+        <div className="w-7 h-7 flex items-center justify-center shrink-0">
+          <img 
+            src="/assets/logos/si-graduasi-logo.png" 
+            alt="Logo Resmi Si-Graduasi" 
+            className="w-full h-full object-contain"
+          />
+        </div>
       </div>
 
       {/* Filter Row */}

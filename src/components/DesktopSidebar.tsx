@@ -43,13 +43,13 @@ export const DesktopSidebar: React.FC<DesktopSidebarProps> = ({
       
       {/* Brand Header */}
       <div className="p-5 border-b border-slate-800/80 flex items-center gap-3">
-        {/* West Java Emblem */}
-        <div className="w-10 h-10 rounded-lg bg-[#008444] flex items-center justify-center text-white shrink-0 shadow-xs">
-          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-            <path d="M12 2L4 5V11C4 16.5 12 21 12 21C12 21 20 16.5 20 11V5L12 2Z" fill="#008444" stroke="#ffffff" strokeWidth="1.6" />
-            <polygon points="12,6 18,9 12,12 6,9" fill="#FBBF24" />
-            <path d="M9 11V14C9 15 15 15 15 14V11" stroke="#FBBF24" strokeWidth="1.2" strokeLinecap="round" />
-          </svg>
+        {/* Official Logo */}
+        <div className="w-10 h-10 rounded-lg bg-white/10 p-1 flex items-center justify-center shrink-0 shadow-xs">
+          <img 
+            src="/assets/logos/si-graduasi-logo.png" 
+            alt="Logo Resmi Si-Graduasi" 
+            className="w-full h-full object-contain [image-rendering:-webkit-optimize-contrast]"
+          />
         </div>
 
         <div>

@@ -90,7 +90,9 @@ export const ProgramFullScreenView: React.FC<ProgramFullScreenViewProps> = ({
                   <img
                     src={logoSrc}
                     alt={programName}
-                    className="w-full h-full object-contain"
+                    className={`w-full h-full object-contain ${
+                      currentId === 'kawal-bansos' ? 'scale-90 p-0.5' : ''
+                    }`}
                   />
                 ) : (
                   getHeaderIcon(currentId)
@@ -128,7 +130,9 @@ export const ProgramFullScreenView: React.FC<ProgramFullScreenViewProps> = ({
               <img
                 src={logoSrc}
                 alt={programName}
-                className="max-h-full max-w-full object-contain [image-rendering:-webkit-optimize-contrast]"
+                className={`max-h-full max-w-full object-contain [image-rendering:-webkit-optimize-contrast] ${
+                  currentId === 'kawal-bansos' ? 'scale-85' : ''
+                }`}
               />
             ) : (
               <div className="w-16 h-16 rounded-2xl bg-emerald-50 border border-emerald-200 flex items-center justify-center text-[#008444]">

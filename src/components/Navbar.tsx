@@ -61,8 +61,12 @@ export const Navbar: React.FC<NavbarProps> = ({
               className="flex items-center gap-2.5 text-left focus:outline-none group"
               aria-label="Kembali ke Beranda Si-Graduasi"
             >
-              <div className="w-9 h-9 rounded-xl bg-gradient-to-br from-emerald-500 to-teal-700 p-0.5 shadow-md shadow-emerald-900/40 flex items-center justify-center">
-                <ShieldCheck className="w-5 h-5 text-white" />
+              <div className="w-9 h-9 rounded-xl bg-white/10 p-1 shadow-md flex items-center justify-center shrink-0">
+                <img 
+                  src="/assets/logos/si-graduasi-logo.png" 
+                  alt="Logo Resmi Si-Graduasi" 
+                  className="w-full h-full object-contain [image-rendering:-webkit-optimize-contrast]"
+                />
               </div>
               <div className="flex flex-col">
                 <span className="text-lg font-bold tracking-tight text-white group-hover:text-emerald-400 transition-colors whitespace-nowrap">

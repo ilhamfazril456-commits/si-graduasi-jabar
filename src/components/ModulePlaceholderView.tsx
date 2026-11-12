@@ -169,40 +169,38 @@ export const ModulePlaceholderView: React.FC<ModulePlaceholderViewProps> = ({
   return (
     <div className="w-full p-4 sm:p-6 pb-28 sm:pb-12 space-y-5 sm:space-y-6 animate-in fade-in duration-150">
       
-      {/* 1. Breadcrumb & Top Bar */}
-      <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4 pb-4 border-b border-slate-200">
-        <div>
-          <div className="flex items-center gap-2 text-xs text-slate-500 font-medium">
-            <button 
-              onClick={onBackToDashboard} 
-              className="hover:text-[#008444] transition-colors cursor-pointer"
-            >
-              Dashboard
-            </button>
-            <span aria-hidden="true">/</span>
-            <span>SI GRADUASI JABAR</span>
-            <span aria-hidden="true">/</span>
-            <span className="text-[#008444] font-semibold">{details.title}</span>
-          </div>
-          <h1 className="text-xl font-extrabold text-slate-900 tracking-tight mt-1">
-            {details.title}
-          </h1>
-          <p className="text-xs text-slate-500 mt-0.5">
-            Pengampu: {details.badgeBidang}
-          </p>
-        </div>
-
+      {/* 1. Header with Single '<-' Button in Top-Left Corner */}
+      <div className="flex items-center justify-between pb-3 border-b border-slate-200">
         <div className="flex items-center gap-3">
-          <span className="text-[11px] font-semibold text-[#008444] bg-emerald-50 px-2.5 py-1 rounded-lg border border-emerald-200">
-            SADAJABAR Terintegrasi
-          </span>
           <button
             onClick={onBackToDashboard}
-            className="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-xl bg-slate-100 hover:bg-slate-200 text-slate-700 text-xs font-semibold transition-colors cursor-pointer"
+            className="w-9 h-9 rounded-xl bg-slate-100 hover:bg-slate-200 active:bg-slate-300 text-slate-800 flex items-center justify-center transition-colors cursor-pointer shrink-0 shadow-2xs"
+            aria-label="Kembali ke Beranda"
+            title="Kembali ke Beranda"
           >
-            <ArrowLeft className="w-3.5 h-3.5" />
-            <span>Kembali ke Dashboard</span>
+            <ArrowLeft className="w-5 h-5 text-slate-800" />
           </button>
+          <div>
+            <div className="flex items-center gap-2">
+              <h1 className="text-base sm:text-xl font-extrabold text-slate-900 tracking-tight leading-tight">
+                {details.title}
+              </h1>
+              <span className="text-[10px] font-semibold text-[#008444] bg-emerald-50 px-2 py-0.5 rounded border border-emerald-100">
+                SADAJABAR
+              </span>
+            </div>
+            <p className="text-[11px] sm:text-xs text-slate-500 mt-0.5">
+              Pengampu: {details.badgeBidang}
+            </p>
+          </div>
+        </div>
+
+        <div className="w-7 h-7 flex items-center justify-center shrink-0">
+          <img 
+            src="/assets/logos/si-graduasi-logo.png" 
+            alt="Logo Resmi Si-Graduasi" 
+            className="w-full h-full object-contain"
+          />
         </div>
       </div>
 
@@ -268,14 +266,8 @@ export const ModulePlaceholderView: React.FC<ModulePlaceholderViewProps> = ({
             </p>
           </div>
 
-          <div className="pt-2">
-            <button
-              onClick={onBackToDashboard}
-              className="inline-flex items-center gap-2 px-4 py-2 rounded-xl bg-slate-100 hover:bg-slate-200 text-slate-700 text-xs font-semibold transition-colors cursor-pointer"
-            >
-              <ArrowLeft className="w-3.5 h-3.5" />
-              <span>Kembali ke Dashboard Utama</span>
-            </button>
+          <div className="pt-2 text-xs text-slate-400 font-medium">
+            Dinas Sosial Provinsi Jawa Barat · SADAJABAR
           </div>
         </div>
 
