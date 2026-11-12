@@ -1,0 +1,1294 @@
+ 
+  
+PEMERINTAH
+ 
+PROVINSI
+ 
+JAWA
+ 
+BARAT
+ 
+DINAS
+ 
+SOSIAL
+ 
+Jalan.
+ 
+Jend.
+ 
+Amir
+ 
+Mahmud
+ 
+Nomor
+ 
+331
+ 
+Cimahi, Jawa
+ 
+Barat 40522 
+ 
+Telepon \(022\ 663323 , Faksimile \( 022 \ 6645535
+ 
+Laman
+ 
+dinsos.jabarprov.go.id,
+ 
+Pos
+-
+el
+ 
+dinsos@jabarprov.go.id
+ 
+ 
+ 
+RANCANGAN 
+SISTEM IN
+FORMASI 
+GRADUASI
+ 
+KELUARGA JABAR
+ 
+\(SI GRADUASI
+\
+ 
+ 
+I. 
+ 
+LATAR BELAKANG
+ 
+Dinas Sosial Provinsi Jawa Barat melaksanakan lima program strategis, yaitu 
+Kampung Sosial, Teman Sosial, Kawal Bansos, Jalan
+-
+Jalan Sosial \(JJS\ dan Modal 
+Sosial. Kelima program tersebut merupakan bentuk intervensi pemerintah dalam 
+meningkatkan kesejahteraan masyarakat melalui pemenuhan kebutuhan dasar, 
+rehabilitasi dan perlindungan sosial, pengawalan bantuan sosial, penguatan 
+kepedulian lingkungan, serta pemberdayaan masyarakat berbasis potensi lokal.
+ 
+Dalam rangka memastikan intervensi dilaksanakan secara tepat sasaran dan 
+sesuai kebutuhan masyarakat, pelaksanaan program perlu diawali dengan pemetaan 
+dan identifikasi kondisi desa atau kelurahan. Proses tersebut mencakup 
+pengumpulan informasi mengenai kondisi sosial ekonomi masyarakat, keluarga 
+miskin, Pemerlu Pelayanan Kesejahteraan Sosial \(PPKS\ potensi sumber daya lokal, 
+serta kebutuhan intervensi. Hasil pemetaan dan survei menjadi dasar dalam 
+menentukan sasaran, jenis kegiatan, dan bentuk intervensi 
+yang sesuai dengan 
+karakteristik wilayah.
+ 
+Pelaksanaan kelima program dapat dilakukan secara terpadu di desa atau 
+kelurahan yang sama maupun secara mandiri oleh masing
+-
+masing bidang sesuai 
+kebutuhan dan kewenangannya. Oleh karena itu, diperlukan mekanisme pencatatan 
+yang mampu mengintegrasikan seluruh kegiatan dan intervensi, termasuk riwayat 
+pelayanan yang diterima oleh setiap keluarga atau individu penerima manfaat.
+ 
+Selama ini, keberhasilan pelaksanaan program berpotensi lebih banyak terlihat 
+dari jumlah kegiatan dan penerima manfaat. Padahal, keberhasilan intervensi sosial 
+juga perlu diukur dari hasil dan perubahan yang terjadi setelah intervensi diberikan, 
+baik berupa peningkatan kondisi sosial dan ekonomi keluarga, pemulihan 
+keberfungsian sosial individu, ketepatan penyaluran bantuan sosial, maupun 
+peningkatan kualitas lingkungan dan partisipasi masyarakat.
+ 
+Selain itu, diperlukan pemantauan secara berkelanjutan untuk mengetahui 
+perkembangan penerima manfaat, mengidentifikasi kebutuhan intervensi lanjutan, 
+serta menilai keluarga yang telah mencapai kondisi mandiri dan memenuhi kriteria 
+graduasi.
+ 
+Sejalan dengan pengembangan ekosistem data terpadu Pemerintah Provinsi 
+Jawa Barat melalui SADAJABAR, Dinas Sosial memerlukan sistem informasi yang 
+dapat mendukung pengelolaan data operasional pelaksanaan program, mulai dari 
+pemetaan wilayah, identifikasi sasaran, perencanaan dan pencatatan intervensi, 
+monitoring, evaluasi hasil, hingga pemantauan graduasi keluarga.
+ 
+Berdasarkan kebutuhan tersebut, dirancang SI GRADUASI JABAR \(Sistem 
+Informasi Integrasi Intervensi Sosial dan Graduasi Keluarga Jawa Barat\
+sebagai 
+sistem informasi yang mendukung keterpaduan pencatatan, pemantauan, dan 
+evaluasi lima program strategis Dinas Sosial Provinsi Jawa Barat, dengan orientasi 
+mendorong perubahan kondisi sosial dan ekonomi serta kemandirian keluarga 
+penerima manfaat.
+ 
+ 
+II. 
+ 
+MAKSUD DAN TUJUAN
+ 
+A. Maksud
+ 
+Membangun sistem informasi yang mendukung integrasi pelaksanaan lima 
+program strategis Dinas Sosial Provinsi Jawa Barat, mulai dari pemetaan dan 
+survei desa, identifikasi sasaran, perencanaan dan pencatatan intervensi, 
+pemantauan perkembangan, evaluasi hasil, hingga pengukuran dan pemantauan 
+graduasi keluarga penerima manfaat.
+ 
+B. Tujuan
+ 
+1.
+ 
+Mengintegrasikan pencatatan pelaksanaan lima program strategis Dinas Sosial 
+Provinsi Jawa Barat.
+ 
+2.
+ 
+Menyediakan informasi hasil pemetaan dan survei kondisi sosial ekonomi 
+masyarakat, potensi desa, serta kebutuhan intervensi.
+ 
+3.
+ 
+Mendokumentasikan keluarga, individu, kelompok, dan komunitas yang menjadi 
+sasaran atau penerima manfaat program.
+ 
+4.
+ 
+Mencatat seluruh kegiatan, bantuan, pelayanan, pendampingan, dan bentuk 
+intervensi yang dilaksanakan oleh masing
+-
+masing program.
+ 
+5.
+ 
+Menyediakan informasi riwayat intervensi yang diterima oleh setiap keluarga 
+atau individu penerima manfaat.
+ 
+6.
+ 
+Memantau perubahan kondisi sosial, ekonomi, dan keberfungsian sosial 
+penerima manfaat sesuai karakteristik program.
+ 
+7.
+ 
+Mengukur hasil pelaksanaan program berdasarkan indikator output dan 
+outcome.
+ 
+8.
+ 
+Mengidentifikasi keluarga yang berpotensi memenuhi kriteria graduasi untuk 
+selanjutnya dilakukan penilaian dan verifikasi sesuai mekanisme yang berlaku.
+ 
+9.
+ 
+Menyediakan data dan informasi sebagai bahan evaluasi, koordinasi, serta 
+perumusan kebijakan penyelenggaraan kesejahteraan sosial dan 
+penanggulangan kemiskinan.
+ 
+ 
+ 
+ 
+III. 
+ 
+SASARAN PENGGUNA APLIKASI
+ 
+Sistem dirancang untuk digunakan oleh perangkat daerah dan petugas yang 
+terlibat dalam pelaksanaan, koordinasi, pemantauan, serta evaluasi program.
+ 
+Pengguna
+ 
+Peran dalam aplikasi
+ 
+Dinas Sosial Provinsi Jawa 
+Barat
+ 
+Pengelola sistem dan program, pemantauan 
+capaian, evaluasi, analisis hasil, serta penyediaan 
+informasi untuk perumusan kebijakan.
+ 
+Bidang Rehabilitasi Sosial
+ 
+Pencatatan dan pemantauan pelaksanaan 
+Kampung Sosial dan Teman Sosial, termasuk 
+penanganan kasus orang terlantar dan migran 
+sesuai tugas dan fungsi.
+ 
+Bidang Penanganan Fakir 
+Miskin
+ 
+Pencatatan dan pemantauan pelaksanaan Kawal 
+Bansos serta hasil pengawalan penyaluran 
+bantuan sosial.
+ 
+Bidang Perlindungan dan 
+Jaminan Sosial
+ 
+Pencatatan dan pemantauan pelaksanaan Jalan
+-
+Jalan Sosial serta hasil kegiatan penguatan 
+kepedulian dan ketahanan lingkungan masyarakat.
+ 
+Bidang Pemberdayaan 
+Sosial
+ 
+Pencatatan dan pemantauan pelaksanaan Modal 
+Sosial, termasuk potensi lokal, bantuan produktif, 
+pendampingan, dan perkembangan usaha 
+masyarakat.
+ 
+Dinas Sosial Kabupaten/Kota
+ 
+Koordinasi pelaksanaan survei, penyampaian data 
+hasil survei, verifikasi sesuai kewenangan, serta 
+pemantauan sasaran di wilayahnya.
+ 
+Pemerintah Desa/Kelurahan 
+dan petugas survei yang 
+ditunjuk
+ 
+Mendukung pengumpulan informasi kondisi 
+masyarakat, potensi desa, kebutuhan, dan data 
+sasaran sesuai penugasan serta kewenangan 
+akses.
+ 
+Petugas lapangan atau 
+pendamping yang ditunjuk
+ 
+Melakukan pembaruan data, pencatatan intervensi, 
+dan pelaporan perkembangan penerima manfaat.
+ 
+ 
+Pengaturan hak akses setiap pengguna dilakukan berdasarkan tugas, fungsi, wilayah 
+kerja, dan kewenangannya, dengan memperhatikan ketentuan perlindungan data 
+pribadi.
+ 
+ 
+IV. 
+ 
+RANCANGAN MENU DAN FITUR APLIKASI
+ 
+ 
+ 
+SI GRADUASI JABAR dirancang memiliki menu dan fitur sebagai berikut.
+ 
+1. Dashboard
+ 
+Menampilkan ringkasan informasi pelaksanaan lima program strategis, meliputi:
+ 
+ 
+Jumlah desa yang telah dipetakan dan disurvei.
+ 
+ 
+Jumlah keluarga, individu, kelompok, dan komunitas penerima manfaat.
+ 
+ 
+Jumlah kegiatan dan intervensi setiap program.
+ 
+ 
+Jumlah keluarga yang mengalami perkembangan positif.
+ 
+ 
+Jumlah kasus sosial yang telah dan sedang ditangani.
+ 
+ 
+Jumlah keluarga yang telah diverifikasi graduasi.
+ 
+ 
+Rekapitulasi hasil program berdasarkan kabupaten/kota, kecamatan, 
+desa/kelurahan, dan periode pelaksanaan.
+ 
+ 
+ 
+ 
+2. Pemetaan dan Survei Desa
+ 
+Digunakan untuk mencata
+t proses persiapan, pelaksanaan, dan hasil survei desa 
+atau kelurahan.
+ 
+Fitur yang diperlukan:
+ 
+ 
+Penentuan desa atau kelurahan prioritas.
+ 
+ 
+Pencatatan koordinasi dengan Dinas Sosial kabupaten/kota.
+ 
+ 
+Penjadwalan dan pencatatan pelaksanaan survei.
+ 
+ 
+Profil dan kondisi sosial ekonomi masyarakat.
+ 
+ 
+Data keluarga miskin dan PPKS yang teridentifikasi.
+ 
+ 
+Pemetaan potensi sumber daya desa.
+ 
+ 
+Identifikasi kebutuhan dan permasalahan masyarakat.
+ 
+ 
+Unggah dokumen dan hasil survei.
+ 
+ 
+Status penyampaian, pemeriksaan, dan verifikasi data survei.
+ 
+ 
+3. Data Sasaran dan Penerima Manfaat
+ 
+Digunakan untuk mengelola data keluarga, individu, kelompok, dan komunitas 
+yang menjadi sasaran atau penerima manfaat.
+ 
+Fitur yang diperlukan:
+ 
+ 
+Profil keluarga dan anggota keluarga.
+ 
+ 
+Identitas individu penerima manfaat.
+ 
+ 
+Alamat dan wilayah domisili.
+ 
+ 
+Kondisi sosial ekonomi dan kebutuhan dasar.
+ 
+ 
+Kondisi dan permasalahan PPKS.
+ 
+ 
+Status verifikasi data.
+ 
+ 
+Keterkaitan dengan data SADAJABAR apabila tersedia dan diizinkan sesuai 
+kewenangan akses.
+ 
+ 
+4. Perencanaan Intervensi
+ 
+Digunakan untuk menentukan bentuk intervensi berdasarkan hasil pemetaan, 
+survei, dan asesmen kebutuhan.
+ 
+Fitur yang diperlukan:
+ 
+ 
+Pemilihan program strategis.
+ 
+ 
+Penentuan sasaran intervensi.
+ 
+ 
+Identifikasi permasalahan dan kebutuhan.
+ 
+ 
+Penentuan jenis bantuan, pelayanan, kegiatan, atau pendampingan.
+ 
+ 
+Kesesuaian intervensi dengan potensi desa.
+ 
+ 
+Penetapan rencana kegiatan, waktu, lokasi, dan pelaksana.
+ 
+ 
+Pencatatan rencana tindak lanjut.
+ 
+ 
+ 
+ 
+5. Pelaksanaan dan Realisasi Intervensi
+ 
+Digunakan untuk mencatat kegiatan dan intervensi yang telah dilaksanakan oleh 
+masing
+-
+masing bidang.
+ 
+Data yang dicatat meliputi:
+ 
+ 
+Nama dan jenis program.
+ 
+ 
+Nama kegiatan.
+ 
+ 
+Lokasi dan waktu pelaksanaan.
+ 
+ 
+Sasaran dan penerima manfaat.
+ 
+ 
+Jenis bantuan atau pelayanan.
+ 
+ 
+Jumlah dan bentuk bantuan.
+ 
+ 
+Pelaksana kegiatan.
+ 
+ 
+Dokumentasi kegiatan.
+ 
+ 
+Hasil pelaksanaan kegiatan.
+ 
+Sistem harus dapat mencatat pelaksanaan program secara terpadu maupun 
+mandiri, tanpa mengharuskan seluruh program dilaksanakan secara bersamaan.
+ 
+ 
+6. Manajemen Kasus dan Rujukan
+ 
+Digunakan terutama untuk mendukung pencatatan penanganan orang terlantar 
+dan migran melalui Program Teman Sosial.
+ 
+Fitur yang diperlukan:
+ 
+ 
+Pencatatan identitas dan kronologi kasus.
+ 
+ 
+Lokasi dan kondisi saat ditemukan.
+ 
+ 
+Hasil identifikasi dan asesmen.
+ 
+ 
+Penelusuran dan pencarian keluarga.
+ 
+ 
+Koordinasi dengan pemerintah daerah atau instansi terkait.
+ 
+ 
+Pencatatan reunifikasi atau pemulangan kepada keluarga.
+ 
+ 
+Pencatatan rujukan atau penempatan pada panti pemerintah maupun lembaga 
+sosial.
+ 
+ 
+Pencatatan fasilitasi pemulangan orang terlantar dari luar Provinsi Jawa Barat, 
+termasuk koordinasi dengan Dinas Sosial provinsi asal untuk penjemputan di 
+bandara.
+ 
+ 
+Status penanganan dan hasil tindak lanjut.
+ 
+ 
+7. Riwayat Intervensi
+ 
+ 
+Menampilkan seluruh riwayat bantuan, pelayanan, kegiatan, dan intervensi yang 
+pernah diterima oleh keluarga atau individu dari berbagai program.
+ 
+ 
+Satu keluarga atau individu dapat memiliki beberapa riwayat intervensi dari 
+program yang berbeda, tetapi identitas penerima manfaat tetap dikelola dengan 
+mekanisme pemadanan untuk menghindari pencatatan ganda.
+ 
+ 
+8. Monitoring dan Evaluasi
+ 
+Digunakan untuk memantau perkembangan penerima manfaat dan hasil kegiatan 
+secara berkala.
+ 
+Fitur yang diperlukan:
+ 
+ 
+Pembaruan kondisi sosial dan ekonomi keluarga.
+ 
+ 
+Perkembangan pekerjaan dan usaha.
+ 
+ 
+Perubahan pendapatan dan pemenuhan kebutuhan dasar.
+ 
+ 
+Perkembangan keterampilan dan kapasitas penerima manfaat.
+ 
+ 
+Perubahan keberfungsian sosial individu.
+ 
+ 
+Hasil penanganan kasus.
+ 
+ 
+Perubahan kondisi lingkungan dan partisipasi masyarakat.
+ 
+ 
+Evaluasi pencapaian output dan outcome.
+ 
+ 
+Identifikasi kebutuhan intervensi lanjutan.
+ 
+ 
+9. Evaluasi dan Graduasi
+ 
+ 
+Digunakan untuk melakukan penilaian terhadap keluarga penerima manfaat yang 
+menjadi sasaran graduasi.
+ 
+ 
+Fitur yang diperlukan:
+ 
+ 
+Pengukuran kondisi awal dan kondisi setelah intervensi.
+ 
+ 
+Penilaian indikator kemandirian keluarga.
+ 
+ 
+Pencatatan hasil asesmen dan evaluasi.
+ 
+ 
+Pengusulan keluarga yang memenuhi kriteria graduasi.
+ 
+ 
+Verifikasi hasil penilaian sesuai mekanisme dan kewenangan.
+ 
+ 
+Pencatatan status graduasi.
+ 
+ 
+Pemantauan kondisi keluarga setelah graduasi.
+ 
+Graduasi tidak ditentukan hanya berdasarkan jumlah bantuan yang diterima atau 
+jumlah kegiatan yang diikuti, tetapi berdasarkan hasil penilaian kondisi dan 
+kemandirian keluarga sesuai kriteria yang berlaku.
+ 
+ 
+10. Laporan
+ 
+Menyediakan laporan secara otomatis berdasarkan data yang telah diinput dan 
+diverifikasi.
+ 
+Jenis laporan antara lain:
+ 
+ 
+Laporan pemetaan dan survei desa.
+ 
+ 
+Laporan sasaran dan penerima manfaat.
+ 
+ 
+Laporan pelaksanaan lima program.
+ 
+ 
+Laporan jenis dan jumlah intervensi.
+ 
+ 
+Laporan penerima manfaat unik.
+ 
+ 
+Laporan penanganan kasus dan rujukan.
+ 
+ 
+Laporan monitoring dan evaluasi.
+ 
+ 
+Laporan perkembangan keluarga.
+ 
+ 
+Laporan keluarga yang diusulkan dan telah diverifikasi graduasi.
+ 
+ 
+V. 
+ 
+RANCANGAN ALUR PROSES BISNIS
+ 
+SI GRADUASI JABAR dirancang mengikuti keseluruhan proses penyelenggaraan 
+intervensi sosial, mulai dari pemetaan wilayah sampai dengan pemantauan hasil 
+intervensi dan graduasi keluarga.
+ 
+A. Tahap Pemetaan dan Survei Desa
+ 
+1. Penentuan desa prioritas
+ 
+Dinas Sosial Provinsi menentukan kabupaten/kota, kecamatan, dan 
+desa/kelurahan yang menjadi lokasi prioritas dengan mempertimbangkan 
+konsentrasi keluarga miskin, kondisi sosial masyarakat, serta kebutuhan 
+penanganan sosial.
+ 
+2. Koordinasi dan persiapan survei
+ 
+ 
+Dinas Sosial Provinsi melakukan koordinasi dengan Dinas Sosial 
+kabupaten/kota dan pihak terkait untuk membahas lokasi survei, kebutuhan 
+data, petugas, jadwal, dan mekanisme penyampaian hasil survei.
+ 
+3. Pelaksanaan survei dan pemetaan
+ 
+Dilakukan pengumpulan informasi mengenai:
+ 
+a. 
+ 
+Kondisi masyarakat, termasuk keluarga miskin, kondisi sosial ekonomi, 
+pekerjaan, pendapatan, kebutuhan dasar, dan PPKS.
+ 
+b. 
+ 
+Potensi desa, termasuk pertanian, perkebunan, peternakan, perikanan, 
+pengolahan pangan, keterampilan masyarakat, produk lokal, sumber daya 
+alam, sumber daya sosial, serta peluang pemasaran.
+ 
+c. 
+ 
+Kebutuhan intervensi, termasuk bantuan kebutuhan dasar, rehabilitasi sosial, 
+perlindungan sosial, pelatihan, bantuan produktif, pendampingan, dan 
+kegiatan penguatan lingkungan masyarakat.
+ 
+4. 
+ 
+Pengumpulan dan penyampaian hasil survei
+ 
+ 
+Hasil survei dihimpun dari desa atau kelurahan melalui Dinas Sosial 
+kabupaten/kota untuk selanjutnya disampaikan kepada Dinas Sosial Provinsi.
+ 
+5. 
+ 
+Verifikasi dan analisis hasil survei
+ 
+ 
+Dinas Sosial melakukan pemeriksaan dan analisis terhadap data yang diterima 
+untuk mengidentifikasi sasaran, permasalahan, potensi, serta kebutuhan 
+intervensi yang sesuai.
+ 
+B. Tahap Penentuan Sasaran dan Perencanaan Intervensi
+ 
+1. Identifikasi sasaran
+ 
+ 
+Menentukan keluarga, individu, kelompok, atau komunitas yang menjadi 
+sasaran program berdasarkan hasil survei, data yang tersedia, serta hasil 
+verifikasi atau asesmen sesuai kebutuhan dan kewenangan.
+ 
+2. Penentuan jenis intervensi
+ 
+Menentukan bentuk intervensi berdasarkan permasalahan dan kebutuhan 
+sasaran serta potensi lokal.
+ 
+Contohnya, apabila hasil survei menunjukkan suatu desa memiliki potensi 
+singkong dan masyarakat memiliki keterampilan pengolahan pangan, maka 
+intervensi Modal Sosial dapat diarahkan pada pelatihan pengolahan pangan, 
+pemberian peralatan, pengemasan produk, pemasaran, dan pendampingan 
+usaha.
+ 
+3. Penyusunan rencana pelaksanaan
+ 
+Menyusun rencana kegiatan berdasarkan program, sasaran, jenis intervensi, 
+lokasi, jadwal, dan pelaksana.
+ 
+C. Tahap Pelaksanaan Intervensi
+ 
+Pelaksanaan lima program strategis dapat dilakukan secara terpadu maupun 
+mandiri.
+ 
+1.
+ 
+Kampung Sosial: pelaksanaan intervensi pemenuhan kebutuhan dasar, antara 
+lain pemberian sembako dan bantuan sosial lainnya sesuai sasaran dan 
+kebutuhan.
+ 
+2.
+ 
+Teman Sosial: 
+pelaksanaan pelayanan rehabilitasi dan perlindungan sosial, 
+termasuk penanganan orang terlantar dan migran, penelusuran keluarga, 
+reunifikasi, rujukan, serta fasilitasi pemulangan.
+ 
+3.
+ 
+Kawal Bansos: pengawalan dan pemantauan penyaluran bantuan sosial dari 
+pemerintah pusat kepada masyarakat di daerah agar tepat sasaran dan dapat 
+dimanfaatkan sesuai peruntukannya.
+ 
+4.
+ 
+Jalan
+-
+Jalan Sosial: 
+pelaksanaan kegiatan kepedulian lingkungan, antara lain 
+pembersihan sungai, penanaman tanaman untuk penghijauan, pembuatan 
+taman, serta penguatan gotong royong masyarakat.
+ 
+5.
+ 
+Modal Sosial: pelaksanaan pemberdayaan masyarakat berbasis potensi lokal, 
+antara lain pemberian peralatan pengolahan pangan, peralatan pertanian atau 
+bercocok tanam, bantuan peternakan ayam, dan bantuan produktif lainnya yang 
+sesuai dengan hasil survei dan kebutuhan masyarakat.
+ 
+D. Tahap Pencatatan dan Dokumentasi
+ 
+Setiap bidang mencatat kegiatan dan intervensi yang telah dilaksanakan, termasuk 
+sasaran, jenis bantuan atau pelayanan, jumlah, waktu, lokasi, pelaksana, serta 
+dokumentasi.
+ 
+Pencatatan dilakukan berdasarkan identitas penerima manfaat dan lokasi kegiatan 
+agar seluruh riwayat intervensi dapat ditelusuri.
+ 
+E. Tahap Monitoring Perkembangan
+ 
+Monitoring dilakukan secara berkala untuk mengetahui perubahan kondisi 
+penerima manfaat setelah mendapatkan intervensi.
+ 
+Pemantauan disesuaikan dengan karakteristik program, antara lain perkembangan 
+ekonomi keluarga, pemanfaatan bantuan produktif, keberfungsian sosial individu, 
+penyelesaian kasus, ketepatan penyaluran bantuan sosial, dan perubahan kondisi 
+lingkungan masyarakat.
+ 
+F. Tahap Evaluasi Hasil Intervensi
+ 
+Evaluasi dilakukan untuk mengukur pencapaian kegiatan dan perubahan yang 
+dihasilkan, membandingkan kondisi sebelum dan sesudah intervensi, serta 
+mengidentifikasi kebutuhan tindak lanjut.
+ 
+G. Tahap Verifikasi Graduasi
+ 
+Keluarga penerima manfaat yang menunjukkan peningkatan kondisi dan 
+memenuhi kriteria kemandirian dapat diusulkan untuk dilakukan penilaian dan 
+verifikasi graduasi sesuai mekanisme yang berlaku.
+ 
+H. Tahap Pemantauan Pascagraduasi
+ 
+Keluarga yang telah diverifikasi graduasi tetap dapat dipantau untuk mengetahui 
+keberlanjutan kemandiriannya dan mengidentifikasi kemungkinan munculnya 
+kembali kerentanan sosial.
+ 
+ 
+VI.
+ 
+RANCANGAN DATA YANG HARUS TERSEDIA
+ 
+Untuk mendukung seluruh proses bisnis, sistem perlu memiliki kelompok data 
+sebagai berikut.
+ 
+Kelompok data
+ 
+Ruang lingkup data
+ 
+1. Data wilayah dan 
+desa
+ 
+Kabupaten/kota, kecamatan, desa/kelurahan, profil desa, 
+kondisi sosial ekonomi, potensi lokal, permasalahan, dan 
+kebutuhan masyarakat.
+ 
+2. Data keluarga dan 
+individu sasaran
+ 
+Identitas keluarga, anggota keluarga, identitas individu, 
+alamat, kondisi sosial ekonomi, pekerjaan, pendapatan, 
+kebutuhan dasar, serta kondisi PPKS.
+ 
+3. Data kegiatan dan 
+intervensi
+ 
+Program, jenis kegiatan, sasaran, bentuk bantuan atau 
+pelayanan, tanggal, lokasi, jumlah bantuan, pelaksana, 
+dan dokumentasi.
+ 
+4. Data penanganan 
+kasus
+ 
+Identitas kasus, kronologi, asesmen, penelusuran 
+keluarga, koordinasi, rujukan, pemulangan, dan status 
+penanganan.
+ 
+5. Data 
+perkembangan dan 
+hasil
+ 
+Perubahan pendapatan, pekerjaan, usaha, keterampilan, 
+pemenuhan kebutuhan dasar, keberfungsian sosial, 
+kondisi lingkungan, dan hasil lainnya sesuai program.
+ 
+6. Data evaluasi dan 
+graduasi
+ 
+Hasil penilaian, indikator kemandirian, hasil verifikasi, 
+tanggal, status graduasi, dan pemantauan pascagraduasi.
+ 
+ 
+Prinsip pengelolaan data:
+ 
+1.
+ 
+Setiap keluarga memiliki satu profil utama yang dapat dihubungkan dengan 
+berbagai riwayat intervensi.
+ 
+2.
+ 
+Data individu dapat dicatat secara tersendiri, tetapi dapat dihubungkan dengan 
+profil keluarga apabila relevan.
+ 
+3.
+ 
+Penerima manfaat kelompok dan komunitas dicatat berdasarkan identitas 
+kelompok, lokasi, dan kegiatan yang diikuti.
+ 
+4.
+ 
+Pencatatan penerima manfaat harus membedakan jumlah individu atau keluarga 
+unik dengan jumlah kejadian intervensi.
+ 
+5.
+ 
+Data identitas perlu dipadankan dengan sumber data yang sah dan tersedia, serta 
+dikelola berdasarkan hak akses.
+ 
+6.
+ 
+Data kondisi awal dan kondisi setelah intervensi harus tersedia agar perubahan 
+hasil dapat diukur.
+ 
+ 
+VII. RANCANGAN DASHBOARD DAN INDIKATOR
+ 
+Dashboard dirancang untuk menampilkan capaian kegiatan sekaligus hasil intervensi 
+dari lima program strategis.
+ 
+A. Informasi Utama Dashboard
+ 
+1.
+ 
+Desa Terpetakan: jumlah desa/kelurahan yang telah melalui proses pemetaan 
+dan survei.
+ 
+2.
+ 
+Penerima Manfaat: jumlah keluarga, individu, kelompok, dan komunitas yang 
+tercatat sebagai penerima manfaat.
+ 
+3.
+ 
+Total Intervensi: jumlah seluruh kegiatan dan bentuk intervensi yang telah 
+dilaksanakan.
+ 
+4.
+ 
+Penerima Manfaat Berkembang: jumlah sasaran yang menunjukkan perubahan 
+positif berdasarkan indikator program.
+ 
+5.
+ 
+Kasus Tertangani: jumlah kasus yang telah memperoleh penanganan dan 
+tindak lanjut.
+ 
+6.
+ 
+Keluarga Graduasi: 
+jumlah keluarga yang telah melalui penilaian dan verifikasi 
+graduasi.
+ 
+Angka yang ditampilkan merupakan contoh komponen dashboard, bukan data 
+capaian aktual.
+ 
+ 
+B. Indikator Berdasarkan Program
+ 
+Program
+ 
+Indikator output
+ 
+Indikator outcome
+ 
+Kampung 
+Sosial
+ 
+Jumlah keluarga dan 
+individu penerima bantuan 
+kebutuhan dasar.
+ 
+Perubahan pemenuhan kebutuhan 
+dasar dan berkurangnya beban 
+pengeluaran keluarga.
+ 
+Teman 
+Sosial
+ 
+Jumlah individu atau kasus 
+yang memperoleh 
+pelayanan, rujukan, 
+reunifikasi, atau fasilitasi 
+pemulangan.
+ 
+Kasus tertangani, kebutuhan 
+perlindungan terpenuhi, dan 
+keberfungsian sosial meningkat.
+ 
+Kawal 
+Bansos
+ 
+Jumlah kegiatan 
+pengawalan dan 
+pemantauan penyaluran 
+bantuan sosial.
+ 
+Ketepatan sasaran meningkat, 
+permasalahan penyaluran 
+ditindaklanjuti, dan bantuan diterima 
+sesuai ketentuan.
+ 
+Jalan
+-
+Jalan 
+Sosial
+ 
+Jumlah kegiatan 
+lingkungan, lokasi, dan 
+masyarakat yang terlibat.
+ 
+Kondisi lingkungan membaik, 
+kepedulian masyarakat meningkat, 
+dan kegiatan pemeliharaan 
+berkelanjutan.
+ 
+Modal 
+Sosial
+ 
+Jumlah kelompok atau 
+keluarga penerima bantuan 
+produktif, peralatan, 
+pelatihan, dan 
+pendampingan.
+ 
+Bantuan dimanfaatkan, kapasitas 
+meningkat, usaha berkembang, 
+produksi bertambah, dan pendapatan 
+meningkat.
+ 
+ 
+ 
+ 
+C. Indikator Graduasi Keluarga
+ 
+Pengukuran graduasi dilakukan secara khusus terhadap keluarga yang menjadi 
+sasaran peningkatan kemandirian.
+ 
+Indikator yang dapat dipertimbangkan antara lain:
+ 
+ 
+Peningkatan pendapatan keluarga.
+ 
+ 
+Memiliki pekerjaan atau usaha yang lebih stabil.
+ 
+ 
+Meningkatnya kemampuan memenuhi kebutuhan dasar.
+ 
+ 
+Meningkatnya kapasitas dan keterampilan produktif.
+ 
+ 
+Berkurangnya ketergantungan terhadap bantuan sosial.
+ 
+ 
+Meningkatnya kemampuan keluarga dalam menghadapi risiko sosial ekonomi.
+ 
+Indikator dan ambang batas graduasi perlu ditetapkan lebih lanjut berdasarkan 
+kriteria, pedoman, dan mekanisme yang berlaku. Sistem berfungsi mendukung 
+pencatatan penilaian dan verifikasi, bukan secara otomatis menetapkan keluarga 
+keluar dari basis data bantuan sosial pemerintah pusat.
+ 
+D. Filter Dashboard
+ 
+Dashboard perlu menyediakan filter berdasarkan:
+ 
+ 
+Program strategis.
+ 
+ 
+Kabupaten/kota.
+ 
+ 
+Kecamatan.
+ 
+ 
+Desa/kelurahan.
+ 
+ 
+Periode pelaksanaan.
+ 
+ 
+Jenis intervensi.
+ 
+ 
+Kategori penerima manfaat.
+ 
+ 
+Status perkembangan.
+ 
+ 
+Status penanganan kasus.
+ 
+ 
+Status graduasi.
+ 
+ 
+VIII
+ 
+POLA PELAKSANAAN LIMA PROGRAM
+ 
+Pelaksanaan lima program strategis dirancang fleksibel, menyesuaikan kebutuhan 
+masyarakat, karakteristik wilayah, dan kesiapan masing
+-
+masing bidang.
+ 
+Pola 
+pelaksanaan
+ 
+Mekanisme
+ 
+Terpadu
+ 
+Beberapa program melaksanakan intervensi di desa atau 
+kelurahan yang sama, dengan sasaran yang dapat saling terkait 
+sesuai kebutuhan.
+ 
+Mandiri
+ 
+Satu bidang melaksanakan program sesuai tugas dan fungsi tanpa 
+harus menunggu pelaksanaan program dari bidang lainnya.
+ 
+Berkelanjutan
+ 
+Penerima manfaat yang telah mendapatkan intervensi tetap dapat 
+dipantau dan diberikan tindak lanjut berdasarkan hasil evaluasi.
+ 
+ 
+Sebagai contoh, dalam satu bulan Dinas Sosial dapat menentukan satu desa prioritas 
+untuk pelaksanaan beberapa program secara terpadu. Namun, apabila terdapat 
+kebutuhan penanganan kasus orang terlantar, pengawalan bantuan sosial, atau 
+kegiatan lingkungan di wilayah lain, masing
+-
+masing bidang tetap dapat melaksanakan 
+program secara mandiri.
+ 
+Dengan pola ini, seluruh kegiatan yang telah dilaksanakan dapat dicatat dalam 
+sistem, baik kegiatan terpadu maupun kegiatan mandiri, sehingga tidak bergantung 
+pada pelaksanaan kelima program secara bersamaan.
+ 
+ 
+IX. 
+ 
+INTEGRASI DENGAN SADAJABAR
+ 
+SI GRADUASI JABAR dirancang dengan mempertimbangkan integrasi dengan 
+SADAJABAR sebagai platform data terpadu Pemerintah Provinsi Jawa Barat.
+ 
+Secara konseptual, pembagian fungsi yang diharapkan adalah sebagai berikut:
+ 
+SADAJABAR
+ 
+SI GRADUASI JABAR
+ 
+Platform data terpadu Pemerintah Provinsi 
+Jawa Barat.
+ 
+Sistem informasi operasional 
+intervensi sosial Dinas Sosial.
+ 
+Referensi data kependudukan dan sosial 
+sesuai ketersediaan dan kewenangan akses.
+ 
+Pencatatan hasil survei, sasaran, 
+kegiatan, dan intervensi sosial.
+ 
+Mendukung pemadanan dan pemanfaatan 
+data lintas sektor.
+ 
+Pengelolaan riwayat intervensi 
+keluarga dan individu.
+ 
+Menyediakan informasi dan data yang dapat 
+dimanfaatkan perangkat daerah sesuai hak 
+akses.
+ 
+Monitoring perkembangan, 
+evaluasi hasil, dan pemantauan 
+graduasi keluarga.
+ 
+ 
+Integrasi tersebut diharapkan dapat menghindari duplikasi basis data identitas 
+keluarga dan mendukung pemanfaatan data yang lebih akurat.
+ 
+Mekanisme integrasi masih perlu dikonsultasikan dengan Diskominfo Provinsi Jawa 
+Barat untuk memastikan:
+ 
+1.
+ 
+Ketersediaan dan kesesuaian data yang dapat dimanfaatkan Dinas Sosial.
+ 
+2.
+ 
+Mekanisme pemadanan identitas keluarga dan individu.
+ 
+3.
+ 
+Kemungkinan pengembangan SI GRADUASI JABAR sebagai modul dalam 
+SADAJABAR atau aplikasi tersendiri yang terintegrasi.
+ 
+4.
+ 
+Mekanisme pertukaran dan pembaruan data.
+ 
+5.
+ 
+Pengaturan kewenangan akses, pengelolaan, dan pemanfaatan data.
+ 
+6.
+ 
+Keamanan serta perlindungan data pribadi.
+ 
+ 
+X. 
+ 
+KEBUTUHAN DUKUNGAN TEKNIS DARI DISKOMINFO
+ 
+Dalam rangka pengembangan SI GRADUASI JABAR, dukungan teknis dari 
+Diskominfo Provinsi Jawa Barat diperlukan untuk:
+ 
+1.
+ 
+Melakukan kajian terhadap kedudukan aplikasi, apakah lebih tepat dikembangkan 
+sebagai modul khusus Dinas Sosial di dalam SADAJABAR atau aplikasi 
+tersendiri yang terintegrasi.
+ 
+2.
+ 
+Menyusun arsitektur sistem dan basis data.
+ 
+3.
+ 
+Menyusun mekanisme pemadanan dan pertukaran data dengan SADAJABAR.
+ 
+4.
+ 
+Mengembangkan fitur pemetaan desa, survei, pengelolaan sasaran, pencatatan 
+intervensi, monitoring, evaluasi, dan graduasi.
+ 
+5.
+ 
+Mengembangkan pengaturan hak akses berdasarkan peran dan kewenangan 
+pengguna.
+ 
+6.
+ 
+Menyediakan fasilitas penginputan data melalui komputer dan telepon genggam.
+ 
+7.
+ 
+Mengembangkan dashboard dan laporan secara otomatis.
+ 
+8.
+ 
+Menyediakan fitur dokumentasi, unggah berkas, serta rekam jejak perubahan 
+data.
+ 
+9.
+ 
+Memastikan keamanan sistem dan perlindungan data pribadi.
+ 
+10.
+ 
+Melaksanakan pengujian, pendampingan penggunaan, dan penyempurnaan 
+aplikasi secara bertahap.
+ 
+ 
+XI.
+ 
+TAHAPAN PENGEMBANGAN 
+ 
+Pengembangan SI GRADUASI JABAR dilakukan secara bertahap sebagai berikut.
+ 
+Tahap
+ 
+Fokus pekerjaan
+ 
+Hasil yang diharapkan
+ 
+1. Penyusunan 
+konsep
+ 
+Menyepakati tujuan, ruang lingkup, 
+pengguna, proses bisnis, fitur, dan 
+indikator.
+ 
+Dokumen konsep SI 
+GRADUASI JABAR.
+ 
+2. Konsultasi dan 
+koordinasi dengan 
+Diskominfo
+ 
+Mengkaji arsitektur sistem, 
+integrasi SADAJABAR, dan 
+alternatif pengembangan aplikasi.
+ 
+Rekomendasi teknis dan 
+skema pengembangan.
+ 
+3. Penyusunan 
+kebutuhan teknis
+ 
+Menyusun kebutuhan data, basis 
+data, hak akses, alur sistem, dan 
+desain antarmuka.
+ 
+Dokumen kebutuhan 
+sistem dan desain 
+aplikasi.
+ 
+4. Pengembangan 
+atau penguatan 
+fitur
+ 
+Membangun atau 
+mengembangkan fitur sesuai 
+proses bisnis yang disepakati.
+ 
+Modul atau aplikasi SI 
+GRADUASI JABAR.
+ 
+5. Uji coba dan 
+implementasi awal
+ 
+Menguji fungsi aplikasi pada lokasi 
+dan program percontohan.
+ 
+Hasil uji coba dan catatan 
+penyempurnaan.
+ 
+6. Evaluasi dan 
+pengembangan 
+lanjutan
+ 
+Mengevaluasi penggunaan, 
+kualitas data, manfaat, serta 
+kebutuhan pengembangan 
+berikutnya.
+ 
+Sistem yang 
+disempurnakan dan siap 
+dikembangkan lebih luas.
+ 
+ 
+X
+. 
+ 
+PENUTUP
+ 
+SI GRADUASI JABAR dirancang sebagai sistem informasi yang mendukung 
+keterpaduan pelaksanaan lima program strategis Dinas Sosial Provinsi Jawa Barat, 
+mulai dari pemetaan dan survei desa, identifikasi sasaran, perencanaan dan 
+pelaksanaan intervensi, monitoring, evaluasi hasil, hingga pemantauan graduasi 
+keluarga.
+ 
+Keberadaan sistem ini diharapkan dapat memberikan gambaran yang lebih 
+utuh mengenai pelaksanaan intervensi sosial, tidak hanya berdasarkan jumlah 
+kegiatan dan penerima manfaat, tetapi juga berdasarkan perubahan kondisi dan hasil 
+yang dicapai.
+ 
+Melalui integrasi pencatatan dan pemantauan tersebut, Dinas Sosial Provinsi 
+Jawa Barat diharapkan memiliki data dan informasi yang lebih terstruktur sebagai 
+dasar koordinasi, evaluasi program, penentuan tindak lanjut, serta perumusan 
+kebijakan penyelenggaraan kesejahteraan sosial dan penanggulangan kemiskinan.
+ 
+ 
+ 
+ 
+ 
+ 
+SI GRADUASI JABAR: Dari Intervensi Menuju Graduasi.
+ 
+ 

@@ -1,0 +1,6 @@
+{
+  "name": "Si-Graduasi",
+  "description": "Sistem Informasi Keterpaduan Graduasi Kesejahteraan Sosial multi-peran dengan 5 program terpadu dan kepatuhan audit Diskominfo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

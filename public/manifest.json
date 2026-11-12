@@ -1,0 +1,27 @@
+{
+  "id": "/",
+  "name": "Si-Graduasi - Sistem Informasi Graduasi Sosial",
+  "short_name": "Si-Graduasi",
+  "description": "Sistem Informasi Keterpaduan Graduasi Kesejahteraan Sosial multi-peran dengan 5 program terpadu dan kepatuhan audit Diskominfo.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#0b192c",
+  "theme_color": "#0b192c",
+  "categories": ["government", "productivity", "social"],
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
